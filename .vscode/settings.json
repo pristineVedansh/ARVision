@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\tensorflow_gpuenv\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pydocstyleEnabled": false,
+    "python.linting.mypyEnabled": false
+}
